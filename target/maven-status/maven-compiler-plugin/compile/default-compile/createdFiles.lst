@@ -1,1 +1,6 @@
+com/digital/security/controller/DigitalSignatureController.class
+com/digital/security/utils/Utils.class
+com/digital/security/controller/Message.class
+com/digital/security/digitalsignature/VerifySignature.class
 com/digital/security/SecurityApplication.class
+com/digital/security/digitalsignature/SignMessage.class
