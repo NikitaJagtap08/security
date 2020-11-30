@@ -16,7 +16,7 @@ public class SignMessage {
     Logger logger = LoggerFactory.getLogger(SignMessage.class);
 
     public String digitalSignature(String message){
-        byte[] digitalSign ={};
+        byte[] digitalSign = {};
         try{
 
             PrivateKey privateKey = Utils.loadPrivateKey();
