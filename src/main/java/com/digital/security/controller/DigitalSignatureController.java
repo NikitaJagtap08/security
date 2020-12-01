@@ -36,14 +36,7 @@ public class DigitalSignatureController {
     class Message {
         private String payload;
         private String checksum;
-
-        public String getChecksum() {
-            return checksum;
-        }
-
-        public String getPayload() {
-            return payload;
-        }
+        
 
     }
 
